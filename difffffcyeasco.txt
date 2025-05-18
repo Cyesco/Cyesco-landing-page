@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cyesco - KRA Returns Filing</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f7f7f7;
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      text-align: center;
+    }
+    header {
+      background-color: #e4002b;
+      width: 100%;
+      padding: 20px;
+      color: white;
+    }
+    h1 {
+      margin-top: 20px;
+      font-size: 2.5rem;
+    }
+    p {
+      font-size: 1.2rem;
+    }
+    .cta-button {
+      margin-top: 30px;
+      padding: 15px 30px;
+      font-size: 1rem;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    footer {
+      position: absolute;
+      bottom: 10px;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h2>CYESCO – Your Online Tax Partner</h2>
+  </header>
+
+  <main>
+    <h1>File Your KRA Returns Easily</h1>
+    <p>Affordable, Secure, and 100% Online Tax Filing Services</p>
+    <a href="https://wa.me/254724059569" class="cta-button">Start on WhatsApp</a>
+  </main>
+
+  <footer>
+    &copy; 2024 CYESCO. All rights reserved.
+  </footer>
+</body>
+</html>
